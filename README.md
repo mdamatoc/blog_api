@@ -13,13 +13,13 @@ Please note that in a production environment, it is recommended to use databases
 1. Clone the repository:
 
 ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/mdamatoc/blog_api.git
 ```
 
 
 2. Navigate to the project directory:
 ```shell
-cd project-directory
+cd blog_api
 ```
 
 3. Create a virtual environment (optional but recommended):
