@@ -39,3 +39,16 @@ Start the application:
 ```shell
 python app.py
 ```
+
+
+## Tests
+The application includes unit tests to ensure the functionality of the repositories. The tests are implemented using the unittest framework.
+
+To run the tests, use the following command:
+
+python -m unittest src/tests/*
+
+The test cases cover various scenarios.
+
+License
+This project is not licensed.
